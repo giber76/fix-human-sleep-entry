@@ -1,0 +1,1 @@
+v2.1.0 — Fixed: falling asleep no longer requires replaying every embarrassing thing you have said since 2011.
